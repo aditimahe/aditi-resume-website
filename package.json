@@ -29,7 +29,10 @@
     "url": "git+https://github.com/aditimahe/aditi-resume-website.git"
   },
   "dependencies": {
-    "bootstrap": "4.5.3"
+    "bootstrap": "4.5.3",
+    "clean": "^4.0.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.14.3"
   },
   "devDependencies": {
     "autoprefixer": "10.0.1",
